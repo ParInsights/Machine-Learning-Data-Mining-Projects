@@ -6,3 +6,7 @@ This is my repo of a handful of mini projects related to machine learning and da
 
 2. Loan Prediction: Association Rules to Predict PEP Request
 
+3. Lie Detector: Can Machine Learning Detect The Lie
+
+We will test this claim by analyzing  customer reviews through the use of  Support      Vector Machine and Multinomial  Naive Bayes in order see if we can detect the fake reviews. 
+
