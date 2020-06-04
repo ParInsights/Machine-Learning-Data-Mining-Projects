@@ -2,7 +2,7 @@
 This is my repo of a handful of mini projects related to machine learning and data mining concepts. Here you will see a demonstation of a variety of data analytics concepts like a supervised and unsupervised learning, neural networks, and sentiment classifcation. 
 
 
-1. Data Exploration and Mining Mini-Project 
+1. [Data Exploration and Mining Mini-Project](https://github.com/ParInsights/Machine-Learning-Data-Mining-Mini-Projects/blob/master/1.%20Data%20Mining%20Mathematics%20Curriculum/Final%20Report_MathematicsCurriculum%20.pdf)
 
 2. [Loan Prediction: Association Rules to Predict PEP Request](https://github.com/ParInsights/Machine-Learning-Data-Mining-Mini-Projects/blob/master/2.Loan%20Prediction-Association%20Rules%20to%20Predict%20PEP%20Request/Final%20Report_Loan%20Prediction-Association%20Rules%20to%20Predict%20PEP%20Request.pdf)
 
