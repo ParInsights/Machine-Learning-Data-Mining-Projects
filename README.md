@@ -1,4 +1,4 @@
-# Machine Learning & Data Mining Mini Projects
+# Machine Learning & Data Mining Projects
 This is my repo of a handful of mini projects related to machine learning and data mining concepts. Here you will see a demonstation of a variety of data analytics concepts like a supervised and unsupervised learning, neural networks, and sentiment classifcation. 
 
 
