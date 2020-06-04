@@ -4,7 +4,7 @@ This is my repo of a handful of mini projects related to machine learning and da
 
 1. Data Exploration and Mining Mini-Project 
 
-2. Loan Prediction: Association Rules to Predict PEP Request
+2. [Loan Prediction: Association Rules to Predict PEP Request](https://github.com/ParInsights/Machine-Learning-Data-Mining-Mini-Projects/blob/master/2.Loan%20Prediction-Association%20Rules%20to%20Predict%20PEP%20Request/Final%20Report_Loan%20Prediction-Association%20Rules%20to%20Predict%20PEP%20Request.pdf)
 
 3. [Lie Detector: Can Machine Learning Detect The Lie](https://github.com/ParInsights/Machine-Learning-Data-Mining-Mini-Projects/blob/master/3.%20Lie%20Detection%20-%20Multinomial%20Naive%20Bayes%20%26%20SVM%20(Sentiment%20Classification)/Lie%20Detection-%20Through%20Support%20Vector%20Machine%20and%20Multinomial%20%20Naive%20Bayes.pdf)
 
